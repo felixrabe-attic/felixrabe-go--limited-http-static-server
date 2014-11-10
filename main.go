@@ -2,7 +2,7 @@
 //
 // Installation:
 //
-//     go get github.com/felixrabe/limited-http-static-server
+//     go get github.com/felixrabe-go/limited-http-static-server
 //
 // Usage:
 //
@@ -10,8 +10,8 @@
 package main
 
 import (
-	"github.com/felixrabe/limited-http-static-server/flags"
-	"github.com/felixrabe/limited-http-static-server/net"
+	"github.com/felixrabe-go/limited-http-static-server/flags"
+	"github.com/felixrabe-go/limited-http-static-server/net"
 )
 
 func main() {

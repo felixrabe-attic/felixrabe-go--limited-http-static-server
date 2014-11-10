@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/felixrabe/limited-http-static-server/errors"
+	"github.com/felixrabe-go/limited-http-static-server/errors"
 )
 
 func usage() {
