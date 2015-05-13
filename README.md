@@ -3,7 +3,7 @@ Limited HTTP static server in Go
 
 Installation:
 
-    go get github.com/felixrabe/limited-http-static-server
+    go get github.com/felixrabe-go/limited-http-static-server
 
 Usage:
 
